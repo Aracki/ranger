@@ -106,6 +106,12 @@ You can also install ranger through PyPI: ```pip install ranger-fm```.
   </a>
 </details>
 
+### Installing with Homebrew
+
+You can use [Homebrew](brew.sh) to install ranger.
+
+`brew install ranger`
+
 ### Installing from a clone
 Note that you don't *have* to install ranger; you can simply run `ranger.py`.
 
